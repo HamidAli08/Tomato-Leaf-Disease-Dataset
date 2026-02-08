@@ -36,7 +36,7 @@ Healthy Leaf
 Below are sample images from each class.
 (Images are stored in the images/ folder of this repository.)
 
-🔴 Bacterial Spot
+🔴 Yellow Leaf Curl Virus
 
 🟠 Early Blight
 
