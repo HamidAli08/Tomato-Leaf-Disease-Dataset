@@ -19,7 +19,7 @@ The dataset contains six distinct classes of tomato leaf conditions collected un
 
 🦠 Disease Classes
 
-Bacterial Spot
+Yellow Leaf Curl Virus
 
 Early Blight
 
